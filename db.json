@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "John",
+            "email": "a@gmail.com",
+            "phone": "1234567890",
+            "address": "Raipur",
+            "resume": "resume_content_here"
+        }
+    ]
+}
